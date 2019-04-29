@@ -10,3 +10,7 @@
 iGraph implementations of walktrap and label propagation algorithms on global language book translations, graded 97%
 
 ---
+
+### Personal Projects (Fun/Learning)
+
+---
