@@ -20,4 +20,11 @@ iGraph implementations of walktrap and label propagation algorithms on global la
 
 Can the Elo Rating System used mainly in Chess, be implemented into Esports, giving likely outcomes of matches? (In progress)
 
+
+[Moneyball - Linear Regression in Python](https://medium.com/@harry.bitten/moneyball-linear-regression-76034259af5e)
+
+<img src="images/Wins.png?raw=true" width="350" height="350"/>
+
+Based off of the true story, recreating the Oakland A's incredible 2002 season
+
 ---
